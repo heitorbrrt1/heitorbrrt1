@@ -3,12 +3,12 @@
     <h2> Eu sou estudante de Ciência da Computação 🖥️</h2>
 </div>
 <div align="center">
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=heitorbrrt1&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=heitorbrrt1&show_icons=true&theme=gotham&include_all_commits=true&include_all_issues&count_private=true"/>
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorbrrt1&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 <div align="center">
     <h2> 
-        <br> Habilidades 
+        <br/> Habilidades
     </h2>
     <p>
     <img align="center" alt="C" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
