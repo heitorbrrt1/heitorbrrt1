@@ -2,10 +2,7 @@
     <h1> Olá, meu nome é Heitor 👋</h1>
     <h2> Eu sou estudante de Ciência da Computação 🖥️</h2>
 </div>
-<div align="center">
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=heitorbrrt1&show_icons=true&theme=gotham&include_all_commits=true&include_all_issues&count_private=true"/>
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorbrrt1&layout=compact&langs_count=7&theme=gotham"/>
-</div>
+
 <div align="center">
     <h2> 
         <br/> Habilidades
