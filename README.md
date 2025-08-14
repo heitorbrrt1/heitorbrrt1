@@ -9,7 +9,7 @@
     <p>
         <img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=Node.js&logoColor=white" alt="Node.js">
         <img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/-ReactJs-white?logo=react&logoColor=blue&style=flat" alt="React" />
         <img src="https://img.shields.io/badge/Tailwind_CSS-grey?style=flat&logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS"></img>
         <img src="https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white" alt="Dribble">
         <img src="https://img.shields.io/badge/Figma-333333?logo=figma&logoColor=white" alt="Figma">
