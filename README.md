@@ -21,7 +21,6 @@
         <img src="https://img.shields.io/badge/FastAPI-0c9b8d.svg?logo=fastapi&logoColor=white" alt="FastAPI"></img>
         <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" alt="PostgreSQL">
         <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" alt="MongoDB">
-        <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white" alt="SupaBase"></img>
     </p>
     <!--   -->
     <h4>DevOps</h4>
